@@ -72,8 +72,9 @@ Charts & KPI Creation
 Interactive Slicers
       ↓
 Retail Sales Dashboard
+```
 
-🚀 Outcome
+## 🚀 Outcome
 
 The final dashboard converts raw retail transaction data into a simple, interactive, and decision-focused business report.
 
@@ -87,3 +88,7 @@ Yearly performance
 Overall business performance
 
 This reduces the need for manual analysis and makes business insights easier to understand and communicate.
+
+## 👨‍💻 Skills Demonstrated
+
+Excel | Data Cleaning | Data Analysis | Pivot Tables | Pivot Charts | Slicers | Dashboard Development | KPI Analysis | Sales & Profit Analysis | Data Visualization
